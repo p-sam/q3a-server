@@ -1,3 +1,7 @@
+# q3a-server
+
+Copy pak0.pk3 from Quake 3 Arena CDROM/Data to the project root
+
 ## Build
 
 ```
